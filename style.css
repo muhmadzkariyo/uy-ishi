@@ -1,0 +1,22 @@
+.mavzu {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border: 10px solid rgb(0, 8, 255);
+    color: orange;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
